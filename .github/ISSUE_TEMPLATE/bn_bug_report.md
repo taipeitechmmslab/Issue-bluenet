@@ -3,8 +3,7 @@ name: BlueNet 問題回報
 about: 遇到 Bug 請在此回報，我們將盡快改善，提供大家更好的服務
 title: 學號_姓名
 labels: bug
-assignees: t104360088, ShangLin-Wu
-
+assignees: t109368015, chenchewei
 ---
 
 ## 回報者信箱
